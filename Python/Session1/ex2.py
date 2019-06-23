@@ -1,1 +1,10 @@
-print("Hello CROSSEA!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
+print("Hello CROSSEA!!!!");
